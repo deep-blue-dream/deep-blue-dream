@@ -1,7 +1,7 @@
-### Hi there 👋
-### About me
 
-:book: 좋은 개발자가 되기 위해 공부를 시작했습니다. <br/>
+### 안녕하세요..!! 넘치는 아이디어와 욕망을 품고있는 새내기 개발자 윤종섭입니다!
+
+:book: 2022년 좋은 개발자가 되기 위해 공부를 시작했습니다. <br/>
 :book: 자바, 파이썬, 장고에 관심이 많으며, 현재는 BE에 관심이 많으나 FE도 틈틈이 알아보고 있습니다! <br/>
 
 
@@ -11,10 +11,10 @@
 
 ## TechStack (Common)
   
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
   ![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
   ![Java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=white)
-  
+  ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
   
 ---
 
@@ -27,7 +27,6 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
   ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
-  ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
   ![Hadoop](https://img.shields.io/badge/AphacheHadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
   
