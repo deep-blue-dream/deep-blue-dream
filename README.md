@@ -2,7 +2,7 @@
 ### 안녕하세요..!! 넘치는 아이디어와 욕망을 품고있는 새내기 개발자 윤종섭입니다!
 
 :book: 2022년 좋은 개발자가 되기 위해 공부를 시작했습니다. <br/>
-:book: 자바, 파이썬을 공부중이며 현재는 백엔드 포지션으로 취업을 준비하고 있습니다! <br/>
+:book: 자바, 파이썬언어와 스프링부트를 공부중이며 현재는 백엔드 포지션으로 취업을 준비하고 있습니다! <br/>
 
 
 <!-- Add a links-->
@@ -10,11 +10,12 @@
 
 
 ## TechStack (Common)
-  
-  ![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+
   ![Java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
+  ![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+  
   
 ---
 
