@@ -3,7 +3,7 @@
 
 :book: 2022년 좋은 개발자가 되기 위해 공부를 시작했습니다. <br/>
 :book: 자바, 파이썬언어와 스프링부트를 공부중이며 현재는 백엔드 포지션으로 취업을 준비하고 있습니다! <br/>
-:book: 개인 공부 기록은 [Notion]([https://nervous-gastonia-3ba.notion.site/da1ef7541adc480cb0ca5362c94ecb8f?v=837384cfc8d64a69a9178a4984386f8e](https://www.notion.so/developer-yoon/da1ef7541adc480cb0ca5362c94ecb8f?v=837384cfc8d64a69a9178a4984386f8e)에 정리중입니다.</br>
+:book: 개인 공부 기록은 [Notion](https://www.notion.so/developer-yoon/da1ef7541adc480cb0ca5362c94ecb8f?v=837384cfc8d64a69a9178a4984386f8e)에 정리중입니다.</br>
 
 
 <!-- Add a links-->
